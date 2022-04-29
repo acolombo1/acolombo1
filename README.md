@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**acolombo1/acolombo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning at Microverse to enhance my software developing abilities.
 
-Here are some ideas to get you started:
+**Aldo Colombo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: [@acolombo1](https://github.com/acolombo1)
+- Twitter: [@aldocolombo](https://twitter.com/aldocolombo)
+- LinkedIn: [Aldo Colombo](https://www.linkedin.com/in/aldo-colombo-2156009)
+
+
+- ⚡ Fun fact: Soccer, cryptos, and market analysis also fascinate me!!
+
+
+![Life](https://user-images.githubusercontent.com/44879977/166069147-23f4ac0c-4d3f-4649-9d82-5fad4cf98dce.png)
