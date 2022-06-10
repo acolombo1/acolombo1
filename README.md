@@ -6,7 +6,7 @@
 
 - GitHub: [@acolombo1](https://github.com/acolombo1)
 - Twitter: [@aldocolombo](https://twitter.com/aldocolombo)
-- LinkedIn: [Aldo Colombo](https://www.linkedin.com/in/aldo-colombo-2156009)
+- LinkedIn: [Aldo Colombo](https://www.linkedin.com/in/aldo-colombo)
 
 
 - ⚡ Fun fact: Soccer, cryptos, and market analysis also fascinate me!!
