@@ -24,6 +24,8 @@ src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge
 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53636709" width="120"></a>
 <a href="https://www.credential.net/46bc4481-5772-41f5-8af0-e83513ed292c" target= "blank"><img 
 src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56108365" width="120"></a>
+<a href="https://www.credential.net/embed/ea97343e-715e-4332-935c-9e7e7bd55de2" target= "blank"><img 
+src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58192031" width="120"></a>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
