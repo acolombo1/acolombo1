@@ -2,8 +2,6 @@
 
 - 🌱 I’ve finished my 6-month intensive preparation as Full Stack developer at Microverse! Now I'm available for hire, especially knowlegable in React, JavaScript, and Ruby on Rails.
 
-**Aldo Colombo**
-
 - GitHub: [@acolombo1](https://github.com/acolombo1)
 - Twitter: [@aldocolombo](https://twitter.com/aldocolombo)
 - LinkedIn: [Aldo Colombo](https://www.linkedin.com/in/aldo-colombo)
