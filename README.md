@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning at Microverse to enhance my software developing abilities.
+- 🌱 I’ve finished my 6-month intensive preparation as Full Stack developer at Microverse! Now I'm available for hire, especially knowlegable in React, JavaScript, and Ruby on Rails.
 
 **Aldo Colombo**
 
